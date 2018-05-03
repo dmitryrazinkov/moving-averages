@@ -1,0 +1,12 @@
+{
+  "name": "moving-averages",
+  "version": "4.0.6",
+  "homepage": "https://github.com/dmitryrazinkov/moving-averages",
+  "description": "Javascript least squares data fitting",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "main": "./dist/average.js"
+}
